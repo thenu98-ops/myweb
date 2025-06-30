@@ -7,7 +7,7 @@ export function Hero() {
           <div className="md:w-1/4 flex justify-center mb-10 md:mb-0">
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-lg">
               {/* Replace the URL with your actual photo URL */}
-              <img src="https://placehold.co/400x400/2563eb/FFFFFF?text=Loading" alt="Thenura Karunarathna" className="w-full h-full object-cover" />
+              <img src="images\my.png" alt="Thenura Karunarathna" className="w-full h-full object-cover" />
             </div>
           </div>
           <div className="md:w-2/5 mb-10 md:mb-0">
