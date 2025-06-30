@@ -15,6 +15,9 @@ export function Education() {
               Bachelor of Science in Electronics and Telecommunication
               Engineering
             </p>
+             <p className="text-gray-400 italic">
+              Expected Graduation: Dec 2026
+            </p>
           </div>
           <div className="bg-gray-900 bg-opacity-70 p-6 rounded-lg shadow-md border border-gray-700">
             <div className="flex flex-col md:flex-row justify-between mb-4">
@@ -26,9 +29,7 @@ export function Education() {
             <p className="mb-2">
               Bachelor of Information Technology (external)
             </p>
-            <p className="text-gray-400 italic">
-              Expected Graduation: Dec 2026
-            </p>
+           
           </div>
           <div className="bg-gray-900 bg-opacity-70 p-6 rounded-lg shadow-md border border-gray-700">
             <div className="flex flex-col md:flex-row justify-between mb-4">
