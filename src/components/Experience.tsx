@@ -19,6 +19,19 @@ export function Experience() {
               with a strong focus on quality and client satisfaction.
             </p>
           </div>
+                 <div className="bg-gray-900 bg-opacity-70 p-6 rounded-lg shadow-md mb-8 border border-gray-700">
+            <div className="flex flex-col md:flex-row justify-between mb-4">
+              <h3 className="text-xl font-bold text-white">Fiverr</h3>
+              <span className="text-gray-300">Dec 2023 - Present</span>
+            </div>
+            <p className="text-gray-300">
+              Provided research writing, automation solutions, and mobile app
+              development services to global clients. Experienced in project
+              handling, customer communication, and delivering customized tech
+              solutions. Successfully completed diverse international projects
+              with a strong focus on quality and client satisfaction.
+            </p>
+          </div>
           <h3 className="text-2xl font-bold mt-12 mb-6 text-white">
             Extracurricular Activities
           </h3>
