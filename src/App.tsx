@@ -10,6 +10,7 @@ import { Achievements } from './components/Achievements';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { AnimatedBackground } from './components/AnimatedBackground';
+import { Banner } from './components/Banner';
 export function App() {
   return <div className="min-h-screen relative">
       <AnimatedBackground />
@@ -17,6 +18,7 @@ export function App() {
         <Header />
         <main>
           <Hero />
+          <Banner/>
           <About />
           <Education />
           <Projects />
